@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Course.Enums\Course.Enums.csproj" />
+    <ProjectReference Include="..\Course.InAndOutModels\Course.InAndOutModels.csproj" />
+    <ProjectReference Include="..\Course.Interfaces\Course.Interfaces.csproj" />
+    <ProjectReference Include="..\Course.Repositories\Course.Repositories.csproj" />
+  </ItemGroup>
+
+</Project>

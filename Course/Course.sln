@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Course.Data", "Course.Data\Course.Data.csproj", "{13F4002F-6C10-45C9-AF19-F8ECF235E2FA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Course.Enums", "Course.Enums\Course.Enums.csproj", "{F57FC549-7A1A-4655-933B-3ABBFE4548F8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Course.InAndOutModels", "Course.InAndOutModels\Course.InAndOutModels.csproj", "{3B694860-8C4B-499D-898B-6EF5405BDFF9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Course.Interfaces", "Course.Interfaces\Course.Interfaces.csproj", "{9A353174-576B-4756-A097-A20D58AFAA8C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Course.Repositories", "Course.Repositories\Course.Repositories.csproj", "{00B31BE0-798D-4A7D-9672-C2FE8B92E107}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Course.API", "Course.API\Course.API.csproj", "{5C0D8E9B-8E00-4367-9945-38CCF8E95237}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Course.Web", "Course.Web\Course.Web.csproj", "{012C4321-5478-41C7-9978-FC233A790E8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13F4002F-6C10-45C9-AF19-F8ECF235E2FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13F4002F-6C10-45C9-AF19-F8ECF235E2FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13F4002F-6C10-45C9-AF19-F8ECF235E2FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13F4002F-6C10-45C9-AF19-F8ECF235E2FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F57FC549-7A1A-4655-933B-3ABBFE4548F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F57FC549-7A1A-4655-933B-3ABBFE4548F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F57FC549-7A1A-4655-933B-3ABBFE4548F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F57FC549-7A1A-4655-933B-3ABBFE4548F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B694860-8C4B-499D-898B-6EF5405BDFF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B694860-8C4B-499D-898B-6EF5405BDFF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B694860-8C4B-499D-898B-6EF5405BDFF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B694860-8C4B-499D-898B-6EF5405BDFF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A353174-576B-4756-A097-A20D58AFAA8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A353174-576B-4756-A097-A20D58AFAA8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A353174-576B-4756-A097-A20D58AFAA8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A353174-576B-4756-A097-A20D58AFAA8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00B31BE0-798D-4A7D-9672-C2FE8B92E107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00B31BE0-798D-4A7D-9672-C2FE8B92E107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00B31BE0-798D-4A7D-9672-C2FE8B92E107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00B31BE0-798D-4A7D-9672-C2FE8B92E107}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C0D8E9B-8E00-4367-9945-38CCF8E95237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C0D8E9B-8E00-4367-9945-38CCF8E95237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C0D8E9B-8E00-4367-9945-38CCF8E95237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C0D8E9B-8E00-4367-9945-38CCF8E95237}.Release|Any CPU.Build.0 = Release|Any CPU
+		{012C4321-5478-41C7-9978-FC233A790E8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{012C4321-5478-41C7-9978-FC233A790E8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{012C4321-5478-41C7-9978-FC233A790E8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{012C4321-5478-41C7-9978-FC233A790E8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {331A9A2E-EE7A-475D-BAE7-A9D992275D20}
+	EndGlobalSection
+EndGlobal

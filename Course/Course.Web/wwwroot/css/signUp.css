@@ -1,0 +1,20 @@
+body {
+    padding: 40px 0 40px 0;
+    background-color: #f5f5f5;
+    display: flex;
+    align-items: center;
+}
+
+html, body {
+    height: 100%;
+}
+
+.login-form {
+    width: 320px;
+    margin: auto;
+}
+/*.aa {
+    background-image: url("../img/loginimage/login4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}*/ /*arkaplan resmþ için*/

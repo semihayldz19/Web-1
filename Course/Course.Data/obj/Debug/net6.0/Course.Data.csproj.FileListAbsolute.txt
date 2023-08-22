@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\Course\Course.Data\bin\Debug\net6.0\Course.Data.deps.json
+C:\Users\USER\source\repos\Course\Course.Data\bin\Debug\net6.0\Course.Data.dll
+C:\Users\USER\source\repos\Course\Course.Data\bin\Debug\net6.0\Course.Data.pdb
+C:\Users\USER\source\repos\Course\Course.Data\obj\Debug\net6.0\Course.Data.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Course\Course.Data\obj\Debug\net6.0\Course.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Course\Course.Data\obj\Debug\net6.0\Course.Data.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Course\Course.Data\obj\Debug\net6.0\Course.Data.AssemblyInfo.cs
+C:\Users\USER\source\repos\Course\Course.Data\obj\Debug\net6.0\Course.Data.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Course\Course.Data\obj\Debug\net6.0\Course.Data.dll
+C:\Users\USER\source\repos\Course\Course.Data\obj\Debug\net6.0\refint\Course.Data.dll
+C:\Users\USER\source\repos\Course\Course.Data\obj\Debug\net6.0\Course.Data.pdb
+C:\Users\USER\source\repos\Course\Course.Data\obj\Debug\net6.0\ref\Course.Data.dll
+C:\Users\USER\source\repos\Course\Course.Data\bin\Debug\net6.0\Course.Enums.dll
+C:\Users\USER\source\repos\Course\Course.Data\bin\Debug\net6.0\Course.Enums.pdb
+C:\Users\USER\source\repos\Course\Course.Data\obj\Debug\net6.0\Course.Data.csproj.CopyComplete

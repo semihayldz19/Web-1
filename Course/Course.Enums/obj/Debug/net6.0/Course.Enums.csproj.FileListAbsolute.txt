@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\Course\Course.Enums\obj\Debug\net6.0\Course.Enums.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Course\Course.Enums\obj\Debug\net6.0\Course.Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Course\Course.Enums\obj\Debug\net6.0\Course.Enums.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Course\Course.Enums\obj\Debug\net6.0\Course.Enums.AssemblyInfo.cs
+C:\Users\USER\source\repos\Course\Course.Enums\obj\Debug\net6.0\Course.Enums.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Course\Course.Enums\bin\Debug\net6.0\Course.Enums.deps.json
+C:\Users\USER\source\repos\Course\Course.Enums\bin\Debug\net6.0\Course.Enums.dll
+C:\Users\USER\source\repos\Course\Course.Enums\bin\Debug\net6.0\Course.Enums.pdb
+C:\Users\USER\source\repos\Course\Course.Enums\obj\Debug\net6.0\Course.Enums.dll
+C:\Users\USER\source\repos\Course\Course.Enums\obj\Debug\net6.0\refint\Course.Enums.dll
+C:\Users\USER\source\repos\Course\Course.Enums\obj\Debug\net6.0\Course.Enums.pdb
+C:\Users\USER\source\repos\Course\Course.Enums\obj\Debug\net6.0\ref\Course.Enums.dll

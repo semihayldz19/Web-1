@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\Course\Course.InAndOutModels\obj\Debug\net6.0\Course.InAndOutModels.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Course\Course.InAndOutModels\obj\Debug\net6.0\Course.InAndOutModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Course\Course.InAndOutModels\obj\Debug\net6.0\Course.InAndOutModels.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Course\Course.InAndOutModels\obj\Debug\net6.0\Course.InAndOutModels.AssemblyInfo.cs
+C:\Users\USER\source\repos\Course\Course.InAndOutModels\obj\Debug\net6.0\Course.InAndOutModels.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Course\Course.InAndOutModels\bin\Debug\net6.0\Course.InAndOutModels.deps.json
+C:\Users\USER\source\repos\Course\Course.InAndOutModels\bin\Debug\net6.0\Course.InAndOutModels.dll
+C:\Users\USER\source\repos\Course\Course.InAndOutModels\bin\Debug\net6.0\Course.InAndOutModels.pdb
+C:\Users\USER\source\repos\Course\Course.InAndOutModels\bin\Debug\net6.0\Course.Data.dll
+C:\Users\USER\source\repos\Course\Course.InAndOutModels\bin\Debug\net6.0\Course.Enums.dll
+C:\Users\USER\source\repos\Course\Course.InAndOutModels\bin\Debug\net6.0\Course.Data.pdb
+C:\Users\USER\source\repos\Course\Course.InAndOutModels\bin\Debug\net6.0\Course.Enums.pdb
+C:\Users\USER\source\repos\Course\Course.InAndOutModels\obj\Debug\net6.0\Course.InAndOutModels.csproj.CopyComplete
+C:\Users\USER\source\repos\Course\Course.InAndOutModels\obj\Debug\net6.0\Course.InAndOutModels.dll
+C:\Users\USER\source\repos\Course\Course.InAndOutModels\obj\Debug\net6.0\refint\Course.InAndOutModels.dll
+C:\Users\USER\source\repos\Course\Course.InAndOutModels\obj\Debug\net6.0\Course.InAndOutModels.pdb
+C:\Users\USER\source\repos\Course\Course.InAndOutModels\obj\Debug\net6.0\ref\Course.InAndOutModels.dll
