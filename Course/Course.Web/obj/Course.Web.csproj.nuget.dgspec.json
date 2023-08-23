@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\source\\repos\\Course\\Course.Web\\Course.Web.csproj": {}
+    "C:\\Users\\USER\\Documents\\GitHub\\Web-1\\Course\\Course.Web\\Course.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\source\\repos\\Course\\Course.Web\\Course.Web.csproj": {
+    "C:\\Users\\USER\\Documents\\GitHub\\Web-1\\Course\\Course.Web\\Course.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\Course\\Course.Web\\Course.Web.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\GitHub\\Web-1\\Course\\Course.Web\\Course.Web.csproj",
         "projectName": "Course.Web",
-        "projectPath": "C:\\Users\\USER\\source\\repos\\Course\\Course.Web\\Course.Web.csproj",
+        "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\Web-1\\Course\\Course.Web\\Course.Web.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\source\\repos\\Course\\Course.Web\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Documents\\GitHub\\Web-1\\Course\\Course.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dkiWMAJCKkTWUwiTCSmoaJZCpf7I0XwuSaC5DVhJaqu6mIZrpg/QOx5eqX/Cw6neDJlwgE0dAB39Bec4uvcCNw==",
+  "dgSpecHash": "OwSC1qYT/Ql4cwlZoAcXqVCZPI4XS3sP2zI8ShcyTqgKJWj5dXa4VBeRBVH+MynRlOyILAO2tIqvt9lPTithNg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\source\\repos\\Course\\Course.InAndOutModels\\Course.InAndOutModels.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Documents\\GitHub\\Web-1\\Course\\Course.InAndOutModels\\Course.InAndOutModels.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.20\\microsoft.entityframeworkcore.6.0.20.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.20\\microsoft.entityframeworkcore.abstractions.6.0.20.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V6NhuWynixF6CPjvF7vVb97a8npHkEQY5EatKBsKE53D0fnNZScwzrFEF5MZKIxOU6QTVOgWLsBxhq8l69Jw9w==",
+  "dgSpecHash": "ok/tJcA0ZH37LWCoYfol78CSl2Fulo3UiHevcidanXj45Uz7981uZ69X2EU8nOgQRnp1MkYrmLxgGRj7B/clDA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\source\\repos\\Course\\Course.Repositories\\Course.Repositories.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Documents\\GitHub\\Web-1\\Course\\Course.Repositories\\Course.Repositories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\dotnetty.buffers\\0.7.0\\dotnetty.buffers.0.7.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\dotnetty.codecs\\0.7.0\\dotnetty.codecs.0.7.0.nupkg.sha512",

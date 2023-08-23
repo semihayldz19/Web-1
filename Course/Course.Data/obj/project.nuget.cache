@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3IyBS5pJHK2WS4CgJ5PNlWHJxpb40R/sjpi3c8al5GJQtGeZcZ4TJjLhVvcblUmjHIaUWnszkyPruWWhQy6e4Q==",
+  "dgSpecHash": "lnoKDHZ9sNoNuWetw16b0bvYW/dHNt8cty/LWunPCD8YJrFlYicnFO6J98RcgcnS1admviqAbeD1RV7zd4eBNA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\source\\repos\\Course\\Course.Data\\Course.Data.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Documents\\GitHub\\Web-1\\Course\\Course.Data\\Course.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.20\\microsoft.entityframeworkcore.6.0.20.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.20\\microsoft.entityframeworkcore.abstractions.6.0.20.nupkg.sha512",

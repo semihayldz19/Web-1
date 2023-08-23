@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m5D/1YjpX2mBZnVK1aWZCQj9XWferOipmnAP/zvCqFrCngHv0EMOfeanS2JLR5Sog2piIWoIOhhnr35Av8qXAA==",
+  "dgSpecHash": "gDYMAMVd53E2Q/8JF354sz7xcqgXZzLDVvMbba7GhqGYRKSJ8J/E3CZKbrSpVyJQt82jtYbyEF3vjdkuiutZIQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\source\\repos\\Course\\Course.Interfaces\\Course.Interfaces.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Documents\\GitHub\\Web-1\\Course\\Course.Interfaces\\Course.Interfaces.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\fluentassertions\\6.11.0\\fluentassertions.6.11.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.20\\microsoft.entityframeworkcore.6.0.20.nupkg.sha512",

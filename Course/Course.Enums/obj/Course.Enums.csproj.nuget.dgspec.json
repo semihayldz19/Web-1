@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\source\\repos\\Course\\Course.Enums\\Course.Enums.csproj": {}
+    "C:\\Users\\USER\\Documents\\GitHub\\Web-1\\Course\\Course.Enums\\Course.Enums.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\source\\repos\\Course\\Course.Enums\\Course.Enums.csproj": {
+    "C:\\Users\\USER\\Documents\\GitHub\\Web-1\\Course\\Course.Enums\\Course.Enums.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\Course\\Course.Enums\\Course.Enums.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\GitHub\\Web-1\\Course\\Course.Enums\\Course.Enums.csproj",
         "projectName": "Course.Enums",
-        "projectPath": "C:\\Users\\USER\\source\\repos\\Course\\Course.Enums\\Course.Enums.csproj",
+        "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\Web-1\\Course\\Course.Enums\\Course.Enums.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\source\\repos\\Course\\Course.Enums\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Documents\\GitHub\\Web-1\\Course\\Course.Enums\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

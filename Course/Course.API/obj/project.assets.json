@@ -6569,11 +6569,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\Course\\Course.API\\Course.API.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Documents\\GitHub\\Web-1\\Course\\Course.API\\Course.API.csproj",
       "projectName": "Course.API",
-      "projectPath": "C:\\Users\\USER\\source\\repos\\Course\\Course.API\\Course.API.csproj",
+      "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\Web-1\\Course\\Course.API\\Course.API.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\source\\repos\\Course\\Course.API\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Documents\\GitHub\\Web-1\\Course\\Course.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6595,17 +6595,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\USER\\source\\repos\\Course\\Course.Enums\\Course.Enums.csproj": {
-              "projectPath": "C:\\Users\\USER\\source\\repos\\Course\\Course.Enums\\Course.Enums.csproj"
+            "C:\\Users\\USER\\Documents\\GitHub\\Web-1\\Course\\Course.Enums\\Course.Enums.csproj": {
+              "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\Web-1\\Course\\Course.Enums\\Course.Enums.csproj"
             },
-            "C:\\Users\\USER\\source\\repos\\Course\\Course.InAndOutModels\\Course.InAndOutModels.csproj": {
-              "projectPath": "C:\\Users\\USER\\source\\repos\\Course\\Course.InAndOutModels\\Course.InAndOutModels.csproj"
+            "C:\\Users\\USER\\Documents\\GitHub\\Web-1\\Course\\Course.InAndOutModels\\Course.InAndOutModels.csproj": {
+              "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\Web-1\\Course\\Course.InAndOutModels\\Course.InAndOutModels.csproj"
             },
-            "C:\\Users\\USER\\source\\repos\\Course\\Course.Interfaces\\Course.Interfaces.csproj": {
-              "projectPath": "C:\\Users\\USER\\source\\repos\\Course\\Course.Interfaces\\Course.Interfaces.csproj"
+            "C:\\Users\\USER\\Documents\\GitHub\\Web-1\\Course\\Course.Interfaces\\Course.Interfaces.csproj": {
+              "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\Web-1\\Course\\Course.Interfaces\\Course.Interfaces.csproj"
             },
-            "C:\\Users\\USER\\source\\repos\\Course\\Course.Repositories\\Course.Repositories.csproj": {
-              "projectPath": "C:\\Users\\USER\\source\\repos\\Course\\Course.Repositories\\Course.Repositories.csproj"
+            "C:\\Users\\USER\\Documents\\GitHub\\Web-1\\Course\\Course.Repositories\\Course.Repositories.csproj": {
+              "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\Web-1\\Course\\Course.Repositories\\Course.Repositories.csproj"
             }
           }
         }
